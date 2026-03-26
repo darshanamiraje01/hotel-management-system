@@ -90,7 +90,7 @@ INSERT IGNORE INTO room_types (name, price_per_night, description) VALUES
 
 -- Default admin user  (password: admin123  — stored as plain text for demo; use BCrypt in production)
 INSERT IGNORE INTO employees (name, email, phone, role, salary, hire_date, username, password, is_active)
-VALUES ('Admin User', 'admin@hotel.com', '9999999999', 'Manager', 50000.00, CURDATE(), 'admin', 'admin123', TRUE);
+VALUES ('Demo Admin', 'demo@hotel.com', '9999999999', 'Manager', 50000.00, CURDATE(), 'demo_admin', 'demo123', TRUE);
 
 -- Sample rooms
 INSERT IGNORE INTO rooms (room_number, floor, room_type_id, status) VALUES

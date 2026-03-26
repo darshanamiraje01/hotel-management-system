@@ -13,7 +13,7 @@ public class DatabaseConfig {
     // ── Change these to match your MySQL installation ──────────────
     private static final String DB_URL  = "jdbc:mysql://localhost:3306/hotel_db?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true";
     private static final String USER     = "root";
-    private static final String PASSWORD = "root";
+    private static final String PASSWORD = "change_me";
     // ──────────────────────────────────────────────────────────────
 
     static {

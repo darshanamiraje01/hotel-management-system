@@ -112,8 +112,8 @@ Or run directly from IDE: set `com.hotel.HotelApp` as the main class.
 
 ### Default Login
 ```
-Username: admin
-Password: admin123
+Username: demo_admin
+Password: demo123
 ```
 
 ---
