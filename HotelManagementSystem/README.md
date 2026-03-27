@@ -4,7 +4,7 @@ A full-featured **Java Swing + MySQL** desktop application for managing hotel op
 
 ---
 
-## Features
+## ✨ Features
 
 | Module | Capabilities |
 |---|---|
@@ -18,7 +18,7 @@ A full-featured **Java Swing + MySQL** desktop application for managing hotel op
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Language:** Java 17
 - **UI:** Java Swing (Nimbus L&F + custom theming)
@@ -28,7 +28,7 @@ A full-featured **Java Swing + MySQL** desktop application for managing hotel op
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 HotelManagementSystem/
@@ -69,7 +69,7 @@ HotelManagementSystem/
 
 ---
 
-## Setup & Run
+## ⚙️ Setup & Run
 
 ### Prerequisites
 - Java 17+
@@ -95,6 +95,8 @@ private static final String USER     = "root";            // your MySQL username
 private static final String PASSWORD = "your_password";   // your MySQL password
 ```
 
+Note: GitHub version uses placeholder credentials for security. Replace locally with your own MySQL username/password.
+
 ### Step 3 — Build
 
 ```bash
@@ -110,7 +112,7 @@ java -jar target/HotelManagementSystem.jar
 
 Or run directly from IDE: set `com.hotel.HotelApp` as the main class.
 
-### Default Login
+### 🔐 Demo Login
 ```
 Username: demo_admin
 Password: demo123
@@ -118,7 +120,7 @@ Password: demo123
 
 ---
 
-## Workflow Guide
+## 🧭 Workflow Guide
 
 ### Booking a room
 1. Go to **Clients** → add the guest if not already in the system
@@ -138,9 +140,9 @@ Password: demo123
 
 ---
 
-## Enhancement Suggestions
+## 🚀 Enhancement Suggestions
 
-### Alternative Tech Stacks to Consider
+### 💡 Alternative Tech Stacks to Consider
 
 | Option | Stack | When to Choose |
 |---|---|---|
@@ -149,7 +151,7 @@ Password: demo123
 | **Cloud-Native** | Spring Boot + PostgreSQL + Docker | Scalable, cloud deployment |
 | **Modern Desktop** | JavaFX + MySQL | Better-looking desktop UI than Swing |
 
-### Additional Features You Can Add
+### 🚀 Additional Features You Can Add
 - PDF invoice generation (iText library)
 - Email receipt to guest (JavaMail)
 - Room service order tracking
@@ -160,6 +162,12 @@ Password: demo123
 - Multi-branch support
 
 ---
+
+## 👩‍💻 Author
+
+Darshana Mirje
+
+If you found this project useful, feel free to ⭐ the repository.
 
 ## License
 MIT — free to use and modify.
