@@ -140,6 +140,34 @@ Password: demo123
 
 ---
 
+## 📸 Screenshots
+
+### 1. Login
+<img src="screenshots/login.png" width="800"/>
+
+### 2. Dashboard
+<img src="screenshots/dashboard.png" width="800"/>
+
+### 3. Clients
+<img src="screenshots/clients.png" width="800"/>
+
+### 4. Rooms
+<img src="screenshots/rooms.png" width="800"/>
+
+### 5. Reservation
+<img src="screenshots/reservation.png" width="800"/>
+
+### 6. Check-out
+<img src="screenshots/check-out.png" width="800"/>
+
+### 7. Generated Invoice
+<img src="screenshots/invoice.png" width="800"/>
+
+### 8. Billing
+<img src="screenshots/billing.png" width="800"/>
+
+---
+
 ## 🚀 Enhancement Suggestions
 
 ### 💡 Alternative Tech Stacks to Consider
